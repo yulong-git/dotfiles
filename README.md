@@ -2,7 +2,8 @@
 
 These are my dot files.
 
-After cloning this repository to home directory. Run the following codes:
+After cloning this repository to home directory. Run the following codes to make 
+symlinks to the dotfiles:
 
 <pre>
 cd ~/dotfiles
